@@ -26,11 +26,11 @@
 
 
 ### 📈 Github Profile :
-<a href="https://github.com/bunnavoit">
+<a href="https://github.com/Bunnavoit">
 </a>
 <br>
 <a href="https://github.com/remcohalman/github-readme-stats">
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=bunnavoit&layout=compact&theme=vision-friendly-dark" />
+<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Bunnavoit&layout=compact&theme=vision-friendly-dark" />
 </a>
 
 <br>
