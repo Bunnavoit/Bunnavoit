@@ -36,7 +36,7 @@
 <br>
 <br>
 <h1>Contact Me By </h1>
-<a href="[https://t.me/Bunnavoit](https://github.com/Bunnavoit)">
+<a href="https://github.com/Bunnavoit">
 <img   alt="Telegram_logo.svg" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  /></a>
 <a href=https://www.facebook.com/kosal.bunnavath/">
 <img   alt="Facebook_Logo" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Facebook_Logo_%282019%29.png"  /></a>
