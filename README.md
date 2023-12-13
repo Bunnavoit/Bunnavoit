@@ -4,12 +4,12 @@
 <div align="center">
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Cheata+...!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bunnavoit+...!;" />
 </h1>
   <p>
-    I am studying at The ROYAL UNIVERSITY OF PHNOM PENH.<br>
+    studying at BELTEI International University OF PHNOM PENH.<br>
     I am in year four at university.<br><br>
-    <a href="https://www.rupp.edu.kh">
+    <a href="[https://www.rupp.edu.kh](https://www.beltei.edu.kh/)">
       <img  alt="Visual Studio Code" width="50px" src="https://i.imgur.com/UyGOhnf.png" style="padding:30px 30px;" />
     </a>
     <br>
