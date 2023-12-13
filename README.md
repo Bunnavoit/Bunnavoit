@@ -9,7 +9,7 @@
   <p>
     studying at BELTEI International University OF PHNOM PENH.<br>
     I am in year four at university.<br><br>
-    <a href="[https://www.rupp.edu.kh](https://www.beltei.edu.kh/)">
+    <a href="[https://www.beltei.edu.kh/](https://beltei.edu.kh/biue/)">
       <img  alt="Visual Studio Code" width="50px" src="https://i.imgur.com/UyGOhnf.png" style="padding:30px 30px;" />
     </a>
     <br>
