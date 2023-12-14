@@ -26,7 +26,7 @@
 
 
 ### 📈 Github Profile :
-<a href="https://github.com/Bunnavoit/Bunnavoit">
+<a href="https://github.com/Bunnavoit">
 </a>
 <br>
 <a href="https://github.com/remcohalman/github-readme-stats">
