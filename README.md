@@ -8,7 +8,7 @@
 </h1>
   <p>
     studying at BELTEI International University OF PHNOM PENH.<br>
-    I am in year four at university.<br><br>
+    I am in year 4 at university.<br><br>
     Major: software Engineering
   </p> 
 
