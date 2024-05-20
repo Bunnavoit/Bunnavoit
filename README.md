@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bunnavoit</h1>
 <h3 align="center">small Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bunnavoit&label=Profile%20views&color=0e75b6&style=flat" alt="bunnavoit" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bunnavoit" alt="bunnavoit" /></a> </p>
-
-- 🌱 I’m currently learning **React native, Flutter , Firebase**
+- 🌱 I’m currently learning **React native, Flutter , Firebase, Solidity**
 
 - 📝 I regularly write articles on [https://www.facebook.com/kosal.bunnavath?mibextid=2JQ9oc](https://www.facebook.com/kosal.bunnavath?mibextid=2JQ9oc)
 
