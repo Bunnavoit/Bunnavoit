@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **React native, Flutter , Firebase, Solidity**
 
-- 📝 I regularly write articles on [https://www.facebook.com/kosal.bunnavath?mibextid=2JQ9oc](https://www.facebook.com/kosal.bunnavath?mibextid=2JQ9oc)
-
 - 📫 How to reach me **kosalbunnavoit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
