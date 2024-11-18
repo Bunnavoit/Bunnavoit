@@ -27,19 +27,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kosal bunnavoit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kosal bunnavoit" height="30" width="40" /></a>
-<a href="https://portfolio-mu-ten-13.vercel.app" target="blank">
-  <svg 
-    xmlns="http://www.w3.org/2000/svg" 
-    width="40" 
-    height="30" 
-    fill="#68D4B9" 
-    viewBox="0 0 24 24"
-    aria-label="portfolio icon"
-  >
-    <path d="M12 0C5.373 0 0 5.373 0 12c0 6.627 5.373 12 12 12s12-5.373 12-12c0-6.627-5.373-12-12-12zm0 1.5c5.799 0 10.5 4.701 10.5 10.5s-4.701 10.5-10.5 10.5S1.5 17.799 1.5 12 6.201 1.5 12 1.5zm-2 4.5v3H8V6h2zm6 0v7h-2V6h2zm-4 4v3h-2v-3h2z"/>
-  </svg>
+<a href="https://portfolio-mu-ten-13.vercel.app" target="_blank">
+  <img align="center" src="https://charii-staging.sgp1.cdn.digitaloceanspaces.com/8e527098-73bc-47bd-8961-9ad67f68a836" alt="Portfolio" height="30" width="30" style="border-radius: 5px;" />
 </a>
-    
 </p>
 
 
